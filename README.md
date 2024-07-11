@@ -113,11 +113,22 @@ Two button are created and assigned to the subroutines to runs the subroutines w
 As shown below. 
 ![Screenshot 2024-07-11 062742](https://github.com/dannieRope/Automating-Monthly-sales-Reporting-processes-VBA-Project/assets/132214828/e1520d0b-e34f-45f6-8a4d-68e064ffd02d)
 
-Also, the image below is what happens when you click the run button 
+The image below shows what happens when the run button is clicked 
 
 ![Screenshot 2024-07-11 063337](https://github.com/dannieRope/Automating-Monthly-sales-Reporting-processes-VBA-Project/assets/132214828/134dafda-6929-488d-8aea-a8ae063d80cd)
 
-Thanks for reading 
+Also the below shows what happens when the reset button is clicked
+
+![Screenshot 2024-07-11 063808](https://github.com/dannieRope/Automating-Monthly-sales-Reporting-processes-VBA-Project/assets/132214828/9d3b5239-9d5a-4b4d-994e-ed33ea47bbc5)
+
+
+Thanks for reading.
+Thanks For reading and Feel free to comment, share and correct the codes in case of an error. I would also love your feedbacks.
+Find the the workbook [here]() and the VBA script [here]()
+
+
+## License
+[MIT License](LICENSE)
 
 
 
